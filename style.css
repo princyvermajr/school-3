@@ -1,0 +1,41 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+body {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+#alumni {
+    background-color: pink;
+}
+
+#campus {
+    background-color: greenyellow;
+
+}
+
+#name {
+    background-color: blue
+}
+
+#rooms {
+    background-color: peachpuff;
+
+}
+
+.movie_head {
+    font-size: 20px;
+    border-radius: 10px;
+    width: 100%;
+    padding: 6px 22px;
+    display: inline-block;
+    margin-bottom: 15px;
+
+}
+
+.movie_head i {
+    float: right;
